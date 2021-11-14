@@ -82,7 +82,7 @@ predict
 
 每一行与输入的`predict.txt`相对应。
 
-![ok](/Users/anjdum/Documents/大学/金融大数据处理技术/作业/作业7/img/ok.png)
+<img src="/img/ok.png" alt="ok" />
 
 精度如下：
 
@@ -98,11 +98,11 @@ predict
 
 neighbour num = 2
 
-<img src="/Users/anjdum/Documents/大学/金融大数据处理技术/作业/作业7/img/2.png" alt="2" style="zoom:50%;" />
+<img src="/img/2.png" alt="2" style="zoom:50%;" />
 
 neighbour num = 3, 4
 
-<img src="/Users/anjdum/Documents/大学/金融大数据处理技术/作业/作业7/img/3.png" alt="3" style="zoom:50%;" />
+<img src="/img/3.png" alt="3" style="zoom:50%;" />
 
 
 
